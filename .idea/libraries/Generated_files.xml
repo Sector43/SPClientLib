@@ -2,14 +2,11 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/Utilities/ajax.js" />
-        <item url="file://$PROJECT_DIR$/AJAX.js" />
+        <item url="file://$PROJECT_DIR$/Scripts/Classes/Options.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/AJAX.js" />
-      <root url="file://$PROJECT_DIR$/Utilities/ajax.js" />
-      <root url="file://$PROJECT_DIR$/AJAX.js" />
+      <root url="file://$PROJECT_DIR$/Scripts/Classes/Options.js" />
     </CLASSES>
     <SOURCES />
   </library>
